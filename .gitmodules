@@ -1,0 +1,3 @@
+[submodule "src/social-delaunay"]
+	path = src/social-delaunay
+	url = https://github.com/mRoca/social-delaunay.git
